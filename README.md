@@ -61,17 +61,42 @@ No NEED TO INSTALL ALL PACKAGES.. INSTALL ONLY THOSE WHICH ARE SHOWING ERRORS...
   to accesee Django admin pannel(/admin) to make entry inside database we need to create a superuser<br>
   python manage.py createsuperuser<br>
   
+# screenshots (click to view in large)
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.0.png" width="500" height="500"/><br>
+This is the Home page were differnt products are shown in categories..<br> 
 
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.0.png" width="500" height="500"/>
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.1.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.2.png" width="500" height="500"/> 
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.3.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.4.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.5.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%202 .png" width="500" height="500"/> 
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%203.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%204.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%205.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%206.png" width="500" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%207.png" width="500" height="500"/>
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%208.png" width="500" height="500"/>  
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.1.png" width="500" height="500"/>  <br>
+After adding products in cart the cart is updated in right corner...we have otion clear cart and proceed to checkout.<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.2.png" width="500" height="500"/> <br>
+after proceed to checkout the next page is like this where we can see products in cart and amout to pay and a form to proceed to pay using paytm..<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.3.png" width="500" height="500"/>  <br>
+we can search items using there name and category..<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.4.png" width="500" height="500"/> <br>
+example:- if we search watch it will display products of watch only...<br> 
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.5.png" width="500" height="500"/> <br>
+page occurs like this if the serach key is not match...<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%202 .png" width="500" height="500"/> <br>
+Example of sorting by clicking on various categories like Electronics, men ,women...In exmaple above sorting is done using Electronics by click the Electronins button inside category navbar <br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%203.png" width="500" height="500"/> <br>
+About me Page<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%204.png" width="500" height="500"/>  <br>
+Example for track order using email and orderid..<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%205.png" width="500" height="500"/><br>
+Home page for BLOG app....where we can access all blogs in databse..<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%206.png" width="500" height="500"/>  <br>
+Example of view of perticular blog.<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%207.png" width="500" height="500"/><br>
+Contact us page..<br>
+
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%208.png" width="500" height="500"/>  <br>
+After submitting contact us page
