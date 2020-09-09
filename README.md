@@ -63,13 +63,13 @@ No NEED TO INSTALL ALL PACKAGES.. INSTALL ONLY THOSE WHICH ARE SHOWING ERRORS...
   
 # screenshots (click to view in large)
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.0.png" width="500" height="500"/><br>
-This is the Home page were differnt products are shown in categories..<br> 
+This is the Home page were different products are shown in categories..<br> 
 
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.1.png" width="500" height="500"/>  <br>
-After adding products in cart the cart is updated in right corner...we have otion clear cart and proceed to checkout.<br>
+After adding products in cart the cart is updated in right corner...we have option clear cart and proceed to checkout.<br>
 
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.2.png" width="500" height="500"/> <br>
-after proceed to checkout the next page is like this where we can see products in cart and amout to pay and a form to proceed to pay using paytm..<br>
+After proceed to checkout the next page is like this where we can see products in cart and amout to pay and a form to proceed to pay using paytm..<br>
 
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.3.png" width="500" height="500"/>  <br>
 we can search items using there name and category..<br>
