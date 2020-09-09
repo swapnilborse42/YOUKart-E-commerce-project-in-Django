@@ -61,6 +61,17 @@ No NEED TO INSTALL ALL PACKAGES.. INSTALL ONLY THOSE WHICH ARE SHOWING ERRORS...
   to accesee Django admin pannel(/admin) to make entry inside database we need to create a superuser<br>
   python manage.py createsuperuser<br>
   
+  # some references to learn Django-
+  https://code.visualstudio.com/docs/python/tutorial-django <br>
+  https://docs.djangoproject.com/en/2.2/ref/models/fields/<br>
+  https://djangobook.com/mdj2-models/ <br>
+  https://docs.djangoproject.com/en/3.1/topics/db/queries/ <br>
+  https://medium.com/@9cv9official/creating-a-django-web-application-with-a-postgresql-database-on-windows-c1eea38fe294 <br>
+  https://wsvincent.com/django-user-authentication-tutorial-login-and-logout/ <br>
+  https://books.agiliq.com/projects/django-orm-cookbook/en/latest/select_some_fields.html <br>
+  https://bootsnipp.com/snippets/dldxB <br>
+  
+  
 # screenshots (click to view in large)
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.0.png" width="500" height="500"/><br>
 This is the Home page were different products are shown in categories..<br> 
