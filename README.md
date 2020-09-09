@@ -7,9 +7,10 @@ YOUKart is E-commerce project in Django which has some basic cart functionalitie
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.3.png" width="400" height="500"/>  
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.4.png" width="400" height="500"/>  
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%201.5.png" width="400" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%202.png" width="400" height="500"/> 
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%202 .png" width="400" height="500"/> 
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%203.png" width="400" height="500"/>  
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%204.png" width="400" height="500"/>  
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%205.png" width="400" height="500"/>  
 <img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%206.png" width="400" height="500"/>  
-<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%207.png" width="400" height="500"/>  
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%207.png" width="400" height="500"/>
+<img src="https://github.com/swapnilborse42/YOUKart-E-commerce-project-in-Django/blob/master/images/screencapture%208.png" width="300" height="500"/>  
